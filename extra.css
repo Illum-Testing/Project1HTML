@@ -1,8 +1,10 @@
-div {
-  width: 100px;
-  height: 100px;
-  transition: width 2s;
+#box p{
+  font-size: 0.8em;
+  margin: 0;
+  text-align: center;
+  transition: font-size .5s ease;
 }
-div:hover {
-  width: 300px;
+
+#box p:hover {
+  font-size: 1.em;
 }
