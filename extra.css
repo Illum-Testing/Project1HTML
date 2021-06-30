@@ -1,10 +1,10 @@
-#box p{
+p{
   font-size: 0.8em;
   margin: 0;
   text-align: center;
   transition: font-size .5s ease;
 }
 
-#box p:hover {
+p:hover {
   font-size: 1.em;
 }
